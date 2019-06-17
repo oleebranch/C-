@@ -1,0 +1,11 @@
+/home/oleebranch/C#/bin/Debug/netcoreapp2.2/C#.deps.json
+/home/oleebranch/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.json
+/home/oleebranch/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.dev.json
+/home/oleebranch/C#/bin/Debug/netcoreapp2.2/C#.dll
+/home/oleebranch/C#/bin/Debug/netcoreapp2.2/C#.pdb
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.csprojAssemblyReference.cache
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.csproj.CoreCompileInputs.cache
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfoInputs.cache
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfo.cs
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.dll
+/home/oleebranch/C#/obj/Debug/netcoreapp2.2/C#.pdb
